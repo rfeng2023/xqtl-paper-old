@@ -1,0 +1,15 @@
+trait	category	citation	trait_norm
+AD_Bellenguez_EADB_hg38_sorted	AD	Bellenguez 2022 Nat Genet (EADB)	AD_Bellenguez_EADB_hg38_sorted
+AD_Bellenguez_buildGRCh38	AD	Bellenguez 2022 Nat Genet (GRCh38)	AD_Bellenguez_buildGRCh38
+AD_Kunkle_etal_Stage1_results_hg38.sorted.munged	AD	Kunkle 2019 Nat Genet (IGAP Stage 1)	AD_Kunkle_etal_Stage1_results_hg38.sorted.munged
+AD_Wightman_Excluding23andMe	AD	Wightman 2021 Nat Genet (excl. 23andMe)	AD_Wightman_Excluding23andMe
+AD_Wightman_ExcludingUKB23andMe	AD	Wightman 2021 Nat Genet (excl. UKB+23andMe)	AD_Wightman_ExcludingUKB23andMe
+AD_Wightman_full_2021	AD	Wightman 2021 Nat Genet (full)	AD_Wightman_full_2021
+PASS_Alzheimers_Jansen2019	AD	Jansen 2019 Nat Genet (UKB proxy-AD)	PASS_Alzheimers_Jansen2019
+UKB.Mono.BOLT	Blood	TREM2/CD33/MS4A/PLCG2/ABI3 expressed in monocytes/microglia	UKB.Mono.BOLT
+UKB.Lym.BOLT	Blood	Gate 2020 Nature: T-cell infiltration in AD brain	UKB.Lym.BOLT
+UKB.Neutro.BOLT	Blood	Zenaro 2015 Nat Med: neutrophil extravasation in AD	UKB.Neutro.BOLT
+PASS_Multiple_sclerosis	Autoimmune	IMSGC; primary CNS autoimmune disease	PASS_Multiple_sclerosis
+PASS_IBD_deLange2017	Autoimmune	deLange 2017; gut-brain axis, IBD-dementia link	PASS_IBD_deLange2017
+PASS_CD_deLange2017	Autoimmune	deLange 2017; NOD2 myeloid signal	PASS_CD_deLange2017
+PASS_Rheumatoid_Arthritis	Autoimmune	Wallin 2012: RA associated with dementia risk	PASS_Rheumatoid_Arthritis
